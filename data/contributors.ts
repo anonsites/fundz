@@ -12,7 +12,7 @@ export const leaderboardData: Contributor[] = [
     name: 'Chriss',
     amount: '500',
     badge: 'bg-emerald-400',
-    avatar: '/images/crown.jpg',
+    avatar: '/images/crown-icon.png',
   },
   {
     rank: 2,
