@@ -9,7 +9,7 @@ export interface Contributor {
 export const leaderboardData: Contributor[] = [
   {
     rank: 1,
-    name: 'Christian',
+    name: 'Chriss',
     amount: '500',
     badge: 'bg-emerald-400',
     avatar: '/images/crown.jpg',
