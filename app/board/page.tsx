@@ -26,7 +26,7 @@ export default function Leaderboard() {
               {/* Center Avatar (Rank 1) - Larger */}
               <div className="flex flex-col items-center z-10">
                 <div className="w-24 sm:w-28 h-24 sm:h-28 rounded-full border-4 border-emerald-400 bg-linear-to-br from-slate-700 to-slate-900 flex items-center justify-center shadow-2xl">
-                  <div className="w-20 sm:w-24 h-20 sm:h-24 rounded-full bg-linear-to-br from-orange-100 to-orange-50 flex items-center justify-center">
+                  <div className="w-20 sm:w-24 h-20 sm:h-24 rounded-full bg-slate-800 flex items-center justify-center">
                     <Image
                     src={leaderboardData[0].avatar}
                     alt={leaderboardData[0].name}
