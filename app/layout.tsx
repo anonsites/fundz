@@ -29,7 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <head>
         <meta charSet="utf-8" />
-        <meta name="theme-color" content="#1fe169" />
+        <meta name="theme-color" content="#1c33c2" />
       </head>
       <body className="min-h-screen w-full antialiased overflow-x-hidden">
         {children}

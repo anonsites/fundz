@@ -48,7 +48,7 @@ export default function Home() {
             <div className="mb-6">
               <div className="flex items-center justify-between mb-3">
                 <span className="text-base sm:text-lg font-black text-emerald-600">
-                  700 / 20k RWF
+                  700 / 50k RWF
                 </span>
               </div>
               <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
@@ -56,7 +56,7 @@ export default function Home() {
               </div>
             </div>
             <p className="text-center text-xs sm:text-sm text-gray-600">
-              11.8% funded
+              1.4% funded
             </p>
           </div>
         </div>

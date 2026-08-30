@@ -4,10 +4,12 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { leaderboardData, campaignInfo } from '@/data/contributors';
 import SiteHeader from '../components/SiteHeader';
+import WelcomePopup from '../components/WelcomePopup';
 
 export default function Leaderboard() {
   return (
     <>
+      <WelcomePopup />
       <SiteHeader />
       <main className="min-h-screen w-full px-4 py-6 sm:px-6 sm:py-8">
 

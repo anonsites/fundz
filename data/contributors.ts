@@ -53,5 +53,5 @@ export const leaderboardData: Contributor[] = [
 
 export const campaignInfo = {
   title: 'Leaderboard',
-  dateRange: 'October 3rd - 10th',
+  dateRange: 'September 1st - 6th',
 };
