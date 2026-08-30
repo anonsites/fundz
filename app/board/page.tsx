@@ -32,6 +32,7 @@ export default function Leaderboard() {
                     alt={leaderboardData[0].name}
                     width={96}
                     height={96}
+                    loading="eager"
                     className="w-full h-full rounded-full object-cover" />
                   </div>
                 </div>
