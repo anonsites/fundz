@@ -14,8 +14,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Fundraising Campaign",
-  description: "Join our exciting fundraising campaign and make a difference!",
+  description: "Help bucura raise funds!",
   viewport: "width=device-width, initial-scale=1, maximum-scale=5",
+  icons: {
+    icon: "/images/site-icon.png",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
