@@ -52,7 +52,7 @@ export default function Home() {
                 </span>
               </div>
               <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
-                <div className="bg-linear-to-r from-emerald-400 to-emerald-500 h-full rounded-full" style={{ width: '11.8%' }} />
+                <div className="bg-linear-to-r from-emerald-400 to-emerald-500 h-full rounded-full" style={{ width: '44%' }} />
               </div>
             </div>
             <p className="text-center text-xs sm:text-sm text-gray-600">
